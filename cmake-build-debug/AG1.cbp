@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/0hyzdiik/AG1/cmake-build-debug"/>
+				<Option working_dir="/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/0hyzdiik/AG1/cmake-build-debug"/>
+				<Option working_dir="/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/0hyzdiik/AG1/cmake-build-debug"/>
+				<Option working_dir="/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="AG1">
-				<Option output="/Users/0hyzdiik/AG1/cmake-build-debug/AG1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/0hyzdiik/AG1/cmake-build-debug"/>
+				<Option output="/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/AG1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 AG1"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 AG1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="AG1/fast">
-				<Option output="/Users/0hyzdiik/AG1/cmake-build-debug/AG1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/0hyzdiik/AG1/cmake-build-debug"/>
+				<Option output="/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/AG1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,20 +73,20 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 AG1/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/0hyzdiik/AG1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 AG1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/martinsutovsky/Documents/AG1-Progtest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/0hyzdiik/AG1/main.c">
+		<Unit filename="/Users/martinsutovsky/Documents/AG1-Progtest/main.c">
 			<Option target="AG1"/>
 		</Unit>
-		<Unit filename="/Users/0hyzdiik/AG1/main.cpp">
+		<Unit filename="/Users/martinsutovsky/Documents/AG1-Progtest/main.cpp">
 			<Option target="AG1"/>
 		</Unit>
-		<Unit filename="/Users/0hyzdiik/AG1/CMakeLists.txt">
+		<Unit filename="/Users/martinsutovsky/Documents/AG1-Progtest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
